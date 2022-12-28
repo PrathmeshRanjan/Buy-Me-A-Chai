@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+A DeFi app which lets the users tip the owner of the contract 0.01 ETH with a message. The app displays the details of the tipper like name, date, timestamp and address.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Project link - https://buyprathmeshachai.netlify.app/
